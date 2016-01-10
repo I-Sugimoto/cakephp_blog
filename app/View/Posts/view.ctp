@@ -1,4 +1,4 @@
-<?php  debug($post) ?>
+<?php   ?>
 
 <h2><?php echo h($post['Post']['title'])?></h2>
 
